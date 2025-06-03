@@ -84,17 +84,17 @@
 
 ## Установка и запуск
 
-1. # Клонировать репозиторий
+1. **Клонировать репозиторий**
 git clone https://github.com/<ваш-профиль>/timer-motivation.git
 cd timer-motivation
 
-2. # Установить зависимости
+2. **Установить зависимости**
 npm install
 
-3. # Запустить дев-сервер
+3. **Запустить дев-сервер**
 npm run dev
 
-4. # (Опционально) Сборка для production
+4. **(Опционально) Сборка для production**
 npm run build
 npm run preview
 
